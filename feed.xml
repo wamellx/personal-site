@@ -3,29 +3,129 @@
     <title>Maxwell Mosson-Baum</title>
     <link href="https://wamellx.github.io/personal-site/feed.xml" rel="self" />
     <link href="https://wamellx.github.io/personal-site" />
-    <updated>2024-10-08T16:02:59-04:00</updated>
+    <updated>2024-10-08T16:26:33-04:00</updated>
     <author>
         <name>Maxwell Mosson-Baum</name>
     </author>
     <id>https://wamellx.github.io/personal-site</id>
 
     <entry>
-        <title>This is a test post</title>
+        <title>Building a Blog - Pt. 1</title>
         <author>
             <name>Maxwell Mosson-Baum</name>
         </author>
-        <link href="https://wamellx.github.io/personal-site/this-is-a-test-post.html"/>
-        <id>https://wamellx.github.io/personal-site/this-is-a-test-post.html</id>
+        <link href="https://wamellx.github.io/personal-site/building-a-blog-pt-1.html"/>
+        <id>https://wamellx.github.io/personal-site/building-a-blog-pt-1.html</id>
 
-        <updated>2024-10-08T16:02:59-04:00</updated>
+        <updated>2024-09-17T12:00:00-04:00</updated>
             <summary>
                 <![CDATA[
-                    Test post please ignore
+                    Welcome back!! Day 2 of being fun-employed! So I’m building a blog. In fact, it’s this blog! This one that you’re reading! This is my second post! Why? There are enough voices on the internet. A couple of reasons: Eventually this page will start to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test post please ignore</p>
+                <p>Welcome back!! Day 2 of being fun-employed!</p>
+<p>So I’m building a blog. In fact, it’s this blog! This one that you’re reading! This is my second post!</p>
+<figure class="post__image"><img loading="lazy"  src="https://file.notion.so/f/f/ce2d53ac-bc6b-4ee6-80c0-db1e1105441b/97eccffd-9f0b-45ea-a621-ffe65d5f66be/image.png?table=block&amp;id=1047bc95-f948-8019-a572-eee33f9f155d&amp;spaceId=ce2d53ac-bc6b-4ee6-80c0-db1e1105441b&amp;expirationTimestamp=1728511200000&amp;signature=Jyx_B7HBpoSj8kocbbKn5EGl5lue1s8tpNcVOde_a_U&amp;downloadName=image.png" alt="" width="842" height="468" data-is-external-image="true"></figure>
+<p><strong>Why? There are enough voices on the internet.</strong></p>
+<p>A couple of reasons:</p>
+<ol>
+<li>Maybe someday I’d also like to be one of those voices on the internet!</li>
+<li>More importantly, I’ve always wanted to be one of the professionals with their own website and a portfolio.</li>
+</ol>
+<p>Eventually this page will start to morph into a more static resume/portfolio page - but for now, it’s blog city.</p>
+<p>We’re gonna be talkin’ about projects, maybe I’ll do some journaling, maybe if I can buy some new toys I’ll do a product review or something. BUT we gotta start with the actual blog.</p>
+<h1>Step 1: How the hell do I get a website?</h1>
+<p>This part is actually pretty easy, and if you’ve watched any YouTube video ever, you probably know what to do. There are only two steps…</p>
+<ol>
+<li>Buy a domain</li>
+<li>Figure out some a hosting provider</li>
+</ol>
+<p>Buying a domain is pretty easy - Google “buy a domain” and pick a provider. In the past I’ve recommended Google Domains, but they got bought by SquareSpace so I guess I recommend SquareSpace now? GoDaddy, BlueHost, NameCheap, SquareSpace all seem fine. Just pick the one that makes you feel happy.</p>
+<figure class="post__image"><img loading="lazy"  src="https://file.notion.so/f/f/ce2d53ac-bc6b-4ee6-80c0-db1e1105441b/21a58f7a-1ae4-4948-b3b4-28c110563d10/image.png?table=block&amp;id=abff10ab-bcd5-4d10-a6d1-8b9250ce48c7&amp;spaceId=ce2d53ac-bc6b-4ee6-80c0-db1e1105441b&amp;expirationTimestamp=1728511200000&amp;signature=QYt-k8-UQ8RJEMZMuXHNWXb_9xlQxnlh-lhGUWseyTg&amp;downloadName=image.png" alt="" width="1962" height="1632" data-is-external-image="true"></figure>
+<p>Look at those. I wonder what the CPQ is on these keywords…..</p>
+<p>On those sites you can submit your desired name, and it will spit out a bunch of options and prices. Lucky for me, I already had <a href="http://maxwellbaum.com">maxwellbaum.com</a> so I get to skip this step!</p>
+<p>Domains can range anywhere from like $12/year to $100/yr+ - really depending on which Top-Level Domain you choose (.com, .biz, .info, etc etc etc)</p>
+<h1>Step 2: Picking a hosting provider</h1>
+<p>A hosting provider is the company that is actually storing and serving up your website files. A domain name is like a phone number, the hosting provider is the person being called.</p>
+<p>Just like a domain, there are a million different options for hosting providers - some just provide a place to put your files, others have full on web-builders.</p>
+<p>For now I chose Notion but I’ll probably end up moving to something based off of WordPress eventually</p>
+<h3>Notion as a CMS (Content Management System)</h3>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>I already pay for it (so basically free!)</li>
+<li>Relatively simple to use (and in a past life I was a Notion Power User)</li>
+<li>Quick!!! I was up and running in like 2 minutes</li>
+<li>Love it for Project Management (which, I’m doin a lot of projects right now)</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Where the fuck are the settings</li>
+<li>Dude it so hard to keep track of all my pages and drafts.</li>
+<li>Can’t really do much personalization</li>
+<li>Have to pay extra to use customized domains</li>
+</ul>
+<p>Basically - Notion is great because you can just write and go. It’s not great because there’s literally no customization beyond that - but that’s what we like to call a “Future Max Problem”.</p>
+<p>I’m a real perfectionist which keeps me from getting things done, to get around it I just have to force myself to ship as early and as often as possible. That means many many MVPs (Minimum Viable Products)</p>
+<p>Notion great for an MVP - I can write and get things out of my head and just publish and share right away.</p>
+<p>—</p>
+<h1>V1 is here!</h1>
+<p>For V1 I made sure I had two things:</p>
+<ol>
+<li>A little snippet about me.</li>
+<li>A first post.</li>
+</ol>
+<p>For the post I used a Notion Database and set it up in Gallery View. This allows for some level of searching and sorting, and gives each post a nice lil picture preview.</p>
+<figure class="post__image"><img loading="lazy"  src="https://file.notion.so/f/f/ce2d53ac-bc6b-4ee6-80c0-db1e1105441b/62600d43-a42c-4ad3-bf36-c97e8f391ede/image.png?table=block&amp;id=1047bc95-f948-805a-b4e7-cb22f461f377&amp;spaceId=ce2d53ac-bc6b-4ee6-80c0-db1e1105441b&amp;expirationTimestamp=1728511200000&amp;signature=OGo2UEpwxYdhFmOXNunifqTxiUZtjqFY5m0xHIekDII&amp;downloadName=image.png" alt="image.png" width="1578" height="744" data-is-external-image="true"></figure>
+<p>Notion DBs allow you to name a ton of different properties (just like you’d do an Excel file or something) - and there are some advanced features that I’ll need to dive into to see if I can use it to automate some updates or publishing.</p>
+<p>But for now, I write and copy/paste into the Blog DB and then it’s live!</p>
+<h1>JK! We’re on V1.1 now!!!</h1>
+<p>I’ve added some extra pages - About, Experience, Blog, Projects, Contact Me</p>
+<p>About → Just a lil bit about me</p>
+<p>Experience → My resume with some deep dives</p>
+<p>Blog → The blog database</p>
+<p>Projects → A portfolio of my (soon to be) finished projects)</p>
+<p>Contact Me → My email, my LinkedIn, and a Hubspot form that collects email addresses for future newsletter subscribers!</p>
+<p>I think the Hubspot back-end is going to be a whole post in and of itself - all the form does is collect emails. I haven’t gotten done with the actual “email sending” part of it. But that’s for another day!</p>
+<p>Cheers,</p>
+<p>Max</p>
+<p><!-- notionvc: 22239f3f-d10c-4ebb-96c4-228fb148b807 --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I got laid off today</title>
+        <author>
+            <name>Maxwell Mosson-Baum</name>
+        </author>
+        <link href="https://wamellx.github.io/personal-site/i-got-laid-off-today.html"/>
+        <id>https://wamellx.github.io/personal-site/i-got-laid-off-today.html</id>
+        <media:content url="https://wamellx.github.io/personal-site/media/posts/3/IMG_5197.png" medium="image" />
+
+        <updated>2024-09-16T12:00:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wamellx.github.io/personal-site/media/posts/3/IMG_5197.png" alt="" />
+                    Hi! Welcome! My name is Max - I’ve been working as a B2B (business to business) SaaS (software as a service) Sales Strategist for almost 7 years now. I got laid off today - it wasn’t a huge shock, nor am I really sad to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wamellx.github.io/personal-site/media/posts/3/IMG_5197.png" class="type:primaryImage" alt="" /></p>
+                <p>Hi! Welcome!</p>
+<p>My name is Max - I’ve been working as a B2B (business to business) SaaS (software as a service) Sales Strategist for almost 7 years now.</p>
+<p>I got laid off today - it wasn’t a huge shock, nor am I really sad to leave. Love my boss, love my team, hated just about everything else about work.</p>
+<p><img loading="lazy" src="https://maxwellbaum.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fce2d53ac-bc6b-4ee6-80c0-db1e1105441b%2Fa6b53b4f-dfbe-49cd-a7fd-02922a7cf30c%2FIMG_5197.png?table=block&amp;id=b015244c-2bec-4486-a8fd-963f08e636f6&amp;spaceId=ce2d53ac-bc6b-4ee6-80c0-db1e1105441b&amp;width=2000&amp;userId=&amp;cache=v2" data-is-external-image="true"></p>
+<p>I’m passionate about… consumer tech, tinkering, home projects, Excel, figuring out how to make software do cool things.</p>
+<p>I’ve always been inspired by the tech journalism space. Reading articles on Engadget and Gizmodo and watching Apple keynotes are why I went to school for Industrial Design. And while that didn’t particularly work out, I’m still reading The Verge every single day. I think it might be my dream job to actually write about tech? And go to product launches, and just be in a space where people are making cool shit every single day.</p>
+<p>The problem is that I have literally no journalism or writing experience - I’ve written a TON of documentation at work, but that’s where my experience ends. Soooooo - while I’m unemployed I’m going to be blogging (almost) every day. Can’t get good at writing if I don’t practice.</p>
+<p>I have a massive list of projects to get done - like 13 broken computers, some smart home stuff, some dumb home stuff. I’m just gonna try to write about every single one as I do them.</p>
+<figure class="post__image"><img loading="lazy"  src="https://file.notion.so/f/f/ce2d53ac-bc6b-4ee6-80c0-db1e1105441b/194adb37-f6ff-4e52-a3a5-d69552250801/Screenshot_2024-09-16_at_4.30.49_PM.png?table=block&amp;id=4fcd7e52-03b0-4c1e-a0e6-8bcfdedd261b&amp;spaceId=ce2d53ac-bc6b-4ee6-80c0-db1e1105441b&amp;expirationTimestamp=1728511200000&amp;signature=xXf9SfEJtPAswO2EiBJevNEWN9SnkOmhKGypY0b6e1A&amp;downloadName=Screenshot+2024-09-16+at+4.30.49%E2%80%AFPM.png" alt="" width="982" height="1534" data-is-external-image="true"></figure>
+<p>Here is a sneak-peak of the list - see “Build a Blog” in there???</p>
+<p>So I’m just gonna start writing! And see where it goes! Maybe I’ll land a job at a tech outlet! Maybe I’ll help or hurt my chances of getting employed somewhere else! Maybe I’ll just get a bunch of half-done projects finally done. And maybe I’ll find out that I just effing hate writing by next week - but for now, I’m gonna try it!</p>
+<p>See ya soon!</p>
+<p>Max</p>
             ]]>
         </content>
     </entry>

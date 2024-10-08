@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Maxwell Mosson-Baum</title>
+    <link href="https://wamellx.github.io/personal-site/feed.xml" rel="self" />
+    <link href="https://wamellx.github.io/personal-site" />
+    <updated>2024-10-08T16:02:59-04:00</updated>
+    <author>
+        <name>Maxwell Mosson-Baum</name>
+    </author>
+    <id>https://wamellx.github.io/personal-site</id>
+
+    <entry>
+        <title>This is a test post</title>
+        <author>
+            <name>Maxwell Mosson-Baum</name>
+        </author>
+        <link href="https://wamellx.github.io/personal-site/this-is-a-test-post.html"/>
+        <id>https://wamellx.github.io/personal-site/this-is-a-test-post.html</id>
+
+        <updated>2024-10-08T16:02:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Test post please ignore
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test post please ignore</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

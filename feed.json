@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Maxwell Mosson-Baum",
+    "description": "",
+    "home_page_url": "https://wamellx.github.io/personal-site",
+    "feed_url": "https://wamellx.github.io/personal-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maxwell Mosson-Baum"
+    },
+    "items": [
+        {
+            "id": "https://wamellx.github.io/personal-site/this-is-a-test-post.html",
+            "url": "https://wamellx.github.io/personal-site/this-is-a-test-post.html",
+            "title": "This is a test post",
+            "summary": "Test post please ignore",
+            "content_html": "<p>Test post please ignore</p>",
+            "author": {
+                "name": "Maxwell Mosson-Baum"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-08T16:02:59-04:00",
+            "date_modified": "2024-10-08T16:02:59-04:00"
+        }
+    ]
+}

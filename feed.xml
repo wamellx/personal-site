@@ -3,7 +3,7 @@
     <title>Maxwell Mosson-Baum</title>
     <link href="https://wamellx.github.io/personal-site/feed.xml" rel="self" />
     <link href="https://wamellx.github.io/personal-site" />
-    <updated>2024-10-08T16:48:01-04:00</updated>
+    <updated>2024-10-08T16:52:51-04:00</updated>
     <author>
         <name>Maxwell Mosson-Baum</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://wamellx.github.io/personal-site/blog/building-a-blog-pt-1/"/>
         <id>https://wamellx.github.io/personal-site/blog/building-a-blog-pt-1/</id>
+        <media:content url="https://wamellx.github.io/personal-site/media/posts/4/image.png" medium="image" />
 
         <updated>2024-09-17T12:00:00-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://wamellx.github.io/personal-site/media/posts/4/image.png" alt="welcome 2 my weblog -maxie bucklehead" />
                     Welcome back!! Day 2 of being fun-employed! So I’m building a blog. In fact, it’s this blog! This one that you’re reading! This is my second post! Why? There are enough voices on the internet. A couple of reasons: Eventually this page will start to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://wamellx.github.io/personal-site/media/posts/4/image.png" class="type:primaryImage" alt="welcome 2 my weblog -maxie bucklehead" /></p>
                 <p>Welcome back!! Day 2 of being fun-employed!</p>
 <p>So I’m building a blog. In fact, it’s this blog! This one that you’re reading! This is my second post!</p>
 <figure class="post__image"><img loading="lazy"  src="https://file.notion.so/f/f/ce2d53ac-bc6b-4ee6-80c0-db1e1105441b/97eccffd-9f0b-45ea-a621-ffe65d5f66be/image.png?table=block&amp;id=1047bc95-f948-8019-a572-eee33f9f155d&amp;spaceId=ce2d53ac-bc6b-4ee6-80c0-db1e1105441b&amp;expirationTimestamp=1728511200000&amp;signature=Jyx_B7HBpoSj8kocbbKn5EGl5lue1s8tpNcVOde_a_U&amp;downloadName=image.png" alt="" width="842" height="468" data-is-external-image="true"></figure>
